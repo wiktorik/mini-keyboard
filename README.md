@@ -1,19 +1,11 @@
-# 🚀 ESP32-C3 Smart Badge | STASIS Project
+1.ESP32 Super Mini Macro Pad
+This is a 3-button mechanical macro pad I built using the ESP32 Super Mini. It includes a tiny OLED screen and an SHT3x sensor to monitor my desk temperature while I work.
 
-An interactive, wearable smart badge built around the **ESP32-C3 SuperMini**. This project is part of my qualification for the STASIS event in Austin, TX.
+What i want to use
+- **Brain:** ESP32 Super Mini (C3)
+- **Keys:** 3x Mechanical Switches (Hot-swap or soldered)
+- **Sensor:** SHT3x for high-accuracy temp/humidity
+- **Screen:** 0.96" OLED via I2C
 
-## 🛠 Features & Badges
-- **WiFi:** Real-time data syncing and remote updates.
-- **I2C:** Integrated 0.96" OLED display for user interface.
-- **Custom PCB:** Designed from scratch to house the SuperMini and peripherals.
-
-## 📦 Components
-- **MCU:** ESP32-C3 SuperMini (USB-C)
-- **Display:** 0.96" OLED (I2C)
-- **Power:** USB-C Integrated
-- **Mounting:** Custom PCB with female headers
-
-## 📂 Project Structure
-- `/pcb` - KiCad/EasyEDA design files (coming soon)
-- `/firmware` - Arduino/ESP-IDF source code
-- `/docs` - Schematics and 3D renders
+## Why I built this
+I wanted a small, portable macro pad that does more than just type. The ESP32 Super Mini is perfect because it's small enough to fit in a pocket-sized case.
