@@ -1,5 +1,5 @@
 1.Mini Macro Pad with SHT3x Sensor
-A compact, 3-button mechanical macro pad based on the **ESP32 Super Mini (C3)**. It features a high-precision **SHT3x temperature/humidity sensor** and a **0.96" OLED display** for real-time environment monitoring.
+A compact, 3-button mechanical macro pad based on the ESP32 Super Mini (C3). It features a high-precision SHT3x temperature/humidity sensor and a 0.96" OLED display for spotify or somthing else.
 
 2.What do you need
 - 3 mechanical switches for shortcuts or media control.
